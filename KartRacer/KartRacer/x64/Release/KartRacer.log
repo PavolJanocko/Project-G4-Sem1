@@ -1,0 +1,82 @@
+﻿  Clicked Cell.cpp
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Clicked Cell.cpp(12,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Clicked Cell.cpp(13,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:             _Ty=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:             _Ty1=short
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:             _Ty=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:             _Ty2=short
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         ]
+  DrawMap.cpp
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\DrawMap.cpp(15,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\DrawMap.cpp(15,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Enemy.cpp
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(58,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(98,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,185): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,185): warning C4244:         with
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,185): warning C4244:         [
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,185): warning C4244:             T=float
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,185): warning C4244:         ]
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,90): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,90): warning C4244:         with
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,90): warning C4244:         [
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,90): warning C4244:             T=float
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,90): warning C4244:         ]
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,183): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,183): warning C4244:         with
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,183): warning C4244:         [
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,183): warning C4244:             T=float
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,183): warning C4244:         ]
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,90): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,90): warning C4244:         with
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,90): warning C4244:         [
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,90): warning C4244:             T=float
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,90): warning C4244:         ]
+  Game.cpp
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(167,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(167,31): warning C4244:         with
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(167,31): warning C4244:         [
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(167,31): warning C4244:             T=float
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(167,31): warning C4244:         ]
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(166,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(166,31): warning C4244:         with
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(166,31): warning C4244:         [
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(166,31): warning C4244:             T=float
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(166,31): warning C4244:         ]
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(191,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(191,30): warning C4244:         with
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(191,30): warning C4244:         [
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(191,30): warning C4244:             T=float
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(191,30): warning C4244:         ]
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(190,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(190,30): warning C4244:         with
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(190,30): warning C4244:         [
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(190,30): warning C4244:             T=float
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Game.cpp(190,30): warning C4244:         ]
+  Globals.cpp
+  Main.cpp
+  Player.cpp
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Player.cpp(13,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Player.cpp(13,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Player.cpp(18,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Player.cpp(32,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Player.cpp(40,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 359 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  KartRacer.vcxproj -> C:\Users\gameuser\Desktop\myStuff\KartRacer\x64\Release\KartRacer.exe

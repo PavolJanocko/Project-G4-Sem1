@@ -1,0 +1,28 @@
+﻿  DrawMap.cpp
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\DrawMap.cpp(15,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\DrawMap.cpp(15,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Enemy.cpp
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(58,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(98,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,185): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,185): warning C4244:         with
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,185): warning C4244:         [
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,185): warning C4244:             T=float
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,185): warning C4244:         ]
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,90): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,90): warning C4244:         with
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,90): warning C4244:         [
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,90): warning C4244:             T=float
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(176,90): warning C4244:         ]
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,183): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,183): warning C4244:         with
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,183): warning C4244:         [
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,183): warning C4244:             T=float
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,183): warning C4244:         ]
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,90): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,90): warning C4244:         with
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,90): warning C4244:         [
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,90): warning C4244:             T=float
+C:\Users\gameuser\Desktop\myStuff\KartRacer\KartRacer\Enemy.cpp(177,90): warning C4244:         ]
+  Generating Code...
+  KartRacer.vcxproj -> C:\Users\gameuser\Desktop\myStuff\KartRacer\x64\Debug\KartRacer.exe
